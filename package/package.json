@@ -1,6 +1,9 @@
 {
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
   "name": "jerryhost.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Open source Library for my discord bots used to add easy customization.",
   "main": "index.js",
   "scripts": {
