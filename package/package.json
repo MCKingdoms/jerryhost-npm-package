@@ -1,0 +1,19 @@
+{
+  "name": "jerryhost.js",
+  "version": "1.0.0",
+  "description": "Open source Library for my discord bots used to add easy customization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCKingdoms/jerryhost-npm-package.git"
+  },
+  "author": "MCKingdoms",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MCKingdoms/jerryhost-npm-package/issues"
+  },
+  "homepage": "https://github.com/MCKingdoms/jerryhost-npm-package#readme"
+}
