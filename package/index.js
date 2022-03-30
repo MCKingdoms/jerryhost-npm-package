@@ -121,8 +121,6 @@ class jerryBot {
     }
 }
 
-const test = new jerryBot("Yes", "token")
-
 // Exceptions that can be thrown by other packages.
 
 class VersionNotFoundException extends Error {
